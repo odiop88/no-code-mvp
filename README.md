@@ -7,7 +7,7 @@ This app allows users to apply a variety of AI/ML tools without the need for cod
 
 ## APP components 
 
-The app is designed to connect shiny app with Pycaret library
+The app is designed to connect shiny app with Pycaret library power. FastAPI help for etablish this connection.
 
 ## Setup
 Prepare your Python environment (FastAPI + PyCaret)
