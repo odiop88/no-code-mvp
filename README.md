@@ -1,4 +1,4 @@
-# Low-/No- code prototype with Pycaret
+# Low-No-code prototype with Pycaret
 
 
 ## Why the APP?
@@ -37,25 +37,19 @@ The APP depends on some Python libraries :
 
 To start the app, you would first need to have the package installed.
 
-Step 3: Launch FastAPI
-Go to command line and run this following command
-```
-uvicorn main:app --reload
-```
-Step 4:  Launch Shiny App
-Go to app.R file and run it (Make sure you already have all packages)
-
 ## Usage
 
 Clone the repo first :)
 
-### R studio
-
-Open app.R from R Studio and click to Run button.
-
 ### Python part
+main.py file contains code to create an API with FastAPI and Pycaret.
+Go to command line and run this following command to Launch FastAPI.
+```
+uvicorn main:app --reload
+```
 
-main.py file contains code to create an API with FastAPI and Pycaret
+### R studio
+Open app.R from R Studio and click to Run button. (Make sure you already have all packages)
 
 ## License
 
