@@ -1,4 +1,4 @@
-# Low-No-code prototype with Pycaret
+# Low-No-code prototype with Pycaret & FastAPI
 
 
 ## Why the APP?
