@@ -26,7 +26,7 @@ source env1/bin/activate
 ```
 Step 2: Install libraries needed
 ```
-pip install fastapi uvicorn pycaret pandas python-multipart
+pip install fastapi uvicorn pycaret pandas python-multipart shape
 ```
 
 The APP depends on some Python libraries :
