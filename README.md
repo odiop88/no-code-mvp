@@ -50,7 +50,10 @@ uvicorn main:app --reload
 
 ### R studio
 Open app.R from R Studio and click to Run button. (Make sure you already have all packages)
-
+Or also run the the following command to launch Shiny app :
+```
+shiny::runApp()
+```
 ## License
 
 - [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](./LICENSE)
